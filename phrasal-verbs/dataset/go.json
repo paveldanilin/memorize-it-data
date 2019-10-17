@@ -1,0 +1,36 @@
+[
+  {
+    "verb": "go away",
+    "definition": {
+      "en": ["to leave a place"]
+    },
+    "examples": [
+      "I yelled at the dogs to make them go away.",
+      "I really missed her when she went away."
+    ]
+  },
+  {
+    "verb": "go back",
+    "definition": {
+      "en": ["to return"]
+    },
+    "examples": [
+      "When are you going back to your house?",
+      "I'll have to go back for my umbrella.",
+      "We can always go back to the original plan if necessary."
+    ]
+  },
+  {
+    "verb": "go by",
+    "definition": {
+      "en": ["to move past, in space or time"]
+    },
+    "examples": [
+      "We go by the coffee shop everyday.",
+      "You can watch the trains going by from this window.",
+      "You can't let an opportunity like that go by - it's too good to miss.",
+      "The house was a train station in days gone by.",
+      "Could you buy a paper for me if you go by a newsagents?"
+    ]
+  }
+]
