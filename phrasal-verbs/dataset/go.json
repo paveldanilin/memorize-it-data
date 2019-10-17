@@ -35,5 +35,59 @@
       "The house was a train station in days gone by.",
       "Could you buy a paper for me if you go by a newsagents?"
     ]
+  },
+  {
+    "verb": "go down",
+    "definition": {
+      "en": ["to become lower in level"],
+      "ru": ["снижаться", "падать"]
+    },
+    "examples": [
+      "Interest rates are going down at the moment.",
+      "The cost of flight tickets is going down. "
+    ]
+  },
+  {
+    "verb": "go for sth",
+    "definition": {
+      "en": ["to choose something", "to try to have or achieve something", "to try to get something"],
+      "ru": ["выбирать", "стремиться к чему-либо", "тянуться за чем-либо"]
+    },
+    "examples": [
+      "What sort of printer are you going to go for?",
+      "He'll be going for his third straight Olympic gold medal.",
+      "He tripped as he was going for the ball."
+    ]
+  },
+  {
+    "verb": "go in for sth",
+    "definition": {
+      "en": ["to like a particular activity"],
+      "ru": ["увлекаться чем-либо"]
+    },
+    "examples": [
+      "I don't really go in for sports."
+    ]
+  },
+  {
+    "verb": "go on",
+    "definition": {
+      "en": ["to last for a particular period of time", "to continue doing something"],
+      "ru": ["продолжаться", "тянуться", "продолжать"]
+    },
+    "examples": [
+      "The film seemed to go on forever.",
+      "We can't go on living like this."
+    ]
+  },
+  {
+    "verb": "go on sth",
+    "definition": {
+      "en": ["to use a piece of information to help you discover or understand something"],
+      "ru": ["располагать какой-либо информацией"]
+    },
+    "examples": [
+      "Her first name was all we had to go on."
+    ]
   }
 ]
