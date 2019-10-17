@@ -2,7 +2,8 @@
   {
     "verb": "go away",
     "definition": {
-      "en": ["to leave a place"]
+      "en": ["to leave a place"],
+      "ru": ["уходить", "уезжать", "исчезать"]
     },
     "examples": [
       "I yelled at the dogs to make them go away.",
@@ -12,7 +13,8 @@
   {
     "verb": "go back",
     "definition": {
-      "en": ["to return"]
+      "en": ["to return"],
+      "ru": ["возвращаться"]
     },
     "examples": [
       "When are you going back to your house?",
@@ -23,7 +25,8 @@
   {
     "verb": "go by",
     "definition": {
-      "en": ["to move past, in space or time"]
+      "en": ["to move past, in space or time"],
+      "ru": ["проходить", "протекать", "проезжать мимо"]
     },
     "examples": [
       "We go by the coffee shop everyday.",
