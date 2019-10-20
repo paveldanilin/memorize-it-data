@@ -1,0 +1,25 @@
+[
+  {
+    "verb": "take back",
+    "definition": {
+      "en": ["to return something you have bought to a shop", "to admit that something you said was wrong"],
+      "ru": ["возвращать"]
+    },
+    "examples": [
+      "Is it too small? Take it back and get a refund.",
+      "All right, I take it all back. It wasn't your fault."
+    ]
+  },
+  {
+    "verb": "take after",
+    "definition": {
+      "en": ["to be similar to an older member of your family in appearance or character"],
+      "ru": ["походить на", "унаследовать"]
+    },
+    "examples": [
+      "He takes after his mother/his mother's side of the family.",
+      "Lazy? He takes after his father.",
+      "She takes after me with her love of horses."
+    ]
+  }
+]
